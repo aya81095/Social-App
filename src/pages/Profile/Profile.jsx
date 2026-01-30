@@ -234,7 +234,7 @@ export default function Profile() {
           <UploadPost getAllPosts={getAllPosts} getUserPosts={getUserPosts} />
 
           {/* Recent Posts Section */}
-          <div className="bg-white border border-sky-200 rounded-2xl shadow-lg py-6 px-3 sm:p-6">
+          <div className="bg-white border border-sky-200 rounded-2xl shadow-lg py-6 px-1 sm:p-6">
             <h2 className="text-xl font-bold text-gray-900 mb-4">
               Recent Posts
             </h2>
